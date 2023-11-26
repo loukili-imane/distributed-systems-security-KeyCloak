@@ -2,16 +2,23 @@
 
 Partie 1
 1. Télécharger Keycloak
-   ![image](https://github.com/loukili-imane/distributed-systems-security-KeyCloak/assets/93887037/9592317b-eef8-4158-a5e7-a4f0d226a679)
+   ![image](https://github.com/loukili-imane/distributed-systems-security-KeyCloak/assets/93887037/ab3c9d59-ca11-4812-ba83-8fb4fb243ff1)
+
 
 3. Démarrer Keycloak
-4. Créer un compte Admin
-5. Créer une Realm
-6. Créer un client à sécuriser
-7. Créer des utilisateurs
-8. Créer des rôles
-9. Affecter les rôles aux utilisateurs
-10. Avec PostMan :
+    ![image](https://github.com/loukili-imane/distributed-systems-security-KeyCloak/assets/93887037/9592317b-eef8-4158-a5e7-a4f0d226a679)
+
+   ![image](https://github.com/loukili-imane/distributed-systems-security-KeyCloak/assets/93887037/4ae5275c-b83e-4f44-893d-a054efa0ca38)
+
+5. Créer un compte Admin
+      ![image](https://github.com/loukili-imane/distributed-systems-security-KeyCloak/assets/93887037/9592317b-eef8-4158-a5e7-a4f0d226a679)
+
+7. Créer une Realm
+8. Créer un client à sécuriser
+9. Créer des utilisateurs
+10. Créer des rôles
+11. Affecter les rôles aux utilisateurs
+12. Avec PostMan :
     - Tester l'authentification avec le mot de passe
     - Analyser les contenus des deux JWT Access Token et Refresh Token
     - Tester l'authentification avec le Refresh Token
