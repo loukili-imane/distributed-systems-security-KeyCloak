@@ -20,10 +20,14 @@ Partie 1
 
 
 9. Créer un client à sécuriser
-10. Créer des utilisateurs
-11. Créer des rôles
-12. Affecter les rôles aux utilisateurs
-13. Avec PostMan :
+   ![image](https://github.com/loukili-imane/distributed-systems-security-KeyCloak/assets/93887037/19b7d628-4884-4640-8ac3-9b4c236ec4f4)
+   ![image](https://github.com/loukili-imane/distributed-systems-security-KeyCloak/assets/93887037/5afe93b1-ff8c-4455-b8e6-4ecf8bbcea21)
+
+
+11. Créer des utilisateurs
+12. Créer des rôles
+13. Affecter les rôles aux utilisateurs
+14. Avec PostMan :
     - Tester l'authentification avec le mot de passe
     - Analyser les contenus des deux JWT Access Token et Refresh Token
     - Tester l'authentification avec le Refresh Token
