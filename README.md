@@ -27,9 +27,13 @@ Partie 1
 
 
 11. Créer des utilisateurs
-12. Créer des rôles
-13. Affecter les rôles aux utilisateurs
-14. Avec PostMan :
+    ![image](https://github.com/loukili-imane/distributed-systems-security-KeyCloak/assets/93887037/d8015807-a847-44e3-bbfc-2a8adf137cb9)
+
+    ![image](https://github.com/loukili-imane/distributed-systems-security-KeyCloak/assets/93887037/5c3fca67-ce08-4139-a18b-ab35dc747128)
+
+13. Créer des rôles
+14. Affecter les rôles aux utilisateurs
+15. Avec PostMan :
     - Tester l'authentification avec le mot de passe
     - Analyser les contenus des deux JWT Access Token et Refresh Token
     - Tester l'authentification avec le Refresh Token
