@@ -11,7 +11,8 @@ Partie 1
    ![image](https://github.com/loukili-imane/distributed-systems-security-KeyCloak/assets/93887037/4ae5275c-b83e-4f44-893d-a054efa0ca38)
 
 5. Créer un compte Admin
-   ![image](https://github.com/loukili-imane/distributed-systems-security-KeyCloak/assets/93887037/9592317b-eef8-4158-a5e7-a4f0d226a679)
+![image](https://github.com/loukili-imane/distributed-systems-security-KeyCloak/assets/93887037/b84d38fa-861c-496b-84b9-11b2b9ac6b27)
+![image](https://github.com/loukili-imane/distributed-systems-security-KeyCloak/assets/93887037/1caf1d07-22af-44b0-92cb-245baae39883)
 
 7. Créer une Realm
 8. Créer un client à sécuriser
