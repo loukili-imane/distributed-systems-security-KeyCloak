@@ -22,6 +22,8 @@ Partie 1
 9. Créer un client à sécuriser
    ![image](https://github.com/loukili-imane/distributed-systems-security-KeyCloak/assets/93887037/19b7d628-4884-4640-8ac3-9b4c236ec4f4)
    ![image](https://github.com/loukili-imane/distributed-systems-security-KeyCloak/assets/93887037/5afe93b1-ff8c-4455-b8e6-4ecf8bbcea21)
+   ![image](https://github.com/loukili-imane/distributed-systems-security-KeyCloak/assets/93887037/fe8ee943-fe1e-4f26-a025-5c3bdd945ac6)
+   ![image](https://github.com/loukili-imane/distributed-systems-security-KeyCloak/assets/93887037/28c10ce2-74b5-4d47-851a-0840f61e3dd6)
 
 
 11. Créer des utilisateurs
