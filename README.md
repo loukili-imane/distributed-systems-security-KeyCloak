@@ -15,11 +15,15 @@ Partie 1
 ![image](https://github.com/loukili-imane/distributed-systems-security-KeyCloak/assets/93887037/1caf1d07-22af-44b0-92cb-245baae39883)
 
 7. Créer une Realm
-8. Créer un client à sécuriser
-9. Créer des utilisateurs
-10. Créer des rôles
-11. Affecter les rôles aux utilisateurs
-12. Avec PostMan :
+   ![image](https://github.com/loukili-imane/distributed-systems-security-KeyCloak/assets/93887037/dc9f46a9-8228-489b-928f-5c98379d2dfb)
+   ![image](https://github.com/loukili-imane/distributed-systems-security-KeyCloak/assets/93887037/51a7a3af-f9c7-42ab-979c-61e0544d1398)
+
+
+9. Créer un client à sécuriser
+10. Créer des utilisateurs
+11. Créer des rôles
+12. Affecter les rôles aux utilisateurs
+13. Avec PostMan :
     - Tester l'authentification avec le mot de passe
     - Analyser les contenus des deux JWT Access Token et Refresh Token
     - Tester l'authentification avec le Refresh Token
