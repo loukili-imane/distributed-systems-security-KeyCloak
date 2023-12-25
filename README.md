@@ -58,7 +58,17 @@ Partie 1
 ![image](https://github.com/loukili-imane/distributed-systems-security-KeyCloak/assets/93887037/e83f8a88-75d2-4377-93ff-17ba4587db66)
 
     - Analyser les contenus des deux JWT Access Token et Refresh Token
+      - Pour l'acces Token :
+        ![image](https://github.com/loukili-imane/distributed-systems-security-KeyCloak/assets/93887037/0a3c59a8-9905-48c0-8fe1-546e71888129)
+        ![image](https://github.com/loukili-imane/distributed-systems-security-KeyCloak/assets/93887037/273f9634-e038-4b87-84ca-8aee819f76f5)
+        ![image](https://github.com/loukili-imane/distributed-systems-security-KeyCloak/assets/93887037/13203545-6eeb-4c64-9537-f7add109ca25)
+
+      - Pour Refresh Token :
+        ![image](https://github.com/loukili-imane/distributed-systems-security-KeyCloak/assets/93887037/2df19995-5d75-458c-9a32-86a464db5676)
+
     - Tester l'authentification avec le Refresh Token
+      ![image](https://github.com/loukili-imane/distributed-systems-security-KeyCloak/assets/93887037/17ada1e5-5842-44b9-bdad-6eac3e2ffbaf)
+
     - Tester l'authentification avec Client ID et Client Secret
     - Changer les paramètres des Tokens Access Token et Refresh Token
 
