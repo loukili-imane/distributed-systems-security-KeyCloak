@@ -44,6 +44,9 @@ Partie 1
 
 15. Affecter les rôles aux utilisateurs
     ![image](https://github.com/loukili-imane/distributed-systems-security-KeyCloak/assets/93887037/dd4e1903-7dc7-43b7-99c5-bf3b9f8760b4)
+![image](https://github.com/loukili-imane/distributed-systems-security-KeyCloak/assets/93887037/2f200424-38d3-49b1-81a8-29241e2e0a5b)
+![image](https://github.com/loukili-imane/distributed-systems-security-KeyCloak/assets/93887037/390ab33d-fe30-4c8e-9461-4e8296dcc55e)
+![image](https://github.com/loukili-imane/distributed-systems-security-KeyCloak/assets/93887037/46eb538b-819d-4ddb-97e3-49be02a839ea)
 
 17. Avec PostMan :
     - Tester l'authentification avec le mot de passe
