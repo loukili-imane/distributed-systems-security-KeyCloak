@@ -49,7 +49,14 @@ Partie 1
 ![image](https://github.com/loukili-imane/distributed-systems-security-KeyCloak/assets/93887037/46eb538b-819d-4ddb-97e3-49be02a839ea)
 
 17. Avec PostMan :
+    ![image](https://github.com/loukili-imane/distributed-systems-security-KeyCloak/assets/93887037/6f6cdc4f-2dbf-4586-92b4-79adf8113d81)
+![image](https://github.com/loukili-imane/distributed-systems-security-KeyCloak/assets/93887037/08fa2275-7ba1-493d-ba99-cf6a9a037827)
+![image](https://github.com/loukili-imane/distributed-systems-security-KeyCloak/assets/93887037/f5bb0ac9-1712-4473-8123-48652a8b5505)
+
     - Tester l'authentification avec le mot de passe
+    ![image](https://github.com/loukili-imane/distributed-systems-security-KeyCloak/assets/93887037/f603946f-339f-4267-9908-fed232c9540e)
+    ![image](https://github.com/loukili-imane/distributed-systems-security-KeyCloak/assets/93887037/a26f8cf5-650a-48ad-b026-bbab2dc08168)
+
     - Analyser les contenus des deux JWT Access Token et Refresh Token
     - Tester l'authentification avec le Refresh Token
     - Tester l'authentification avec Client ID et Client Secret
