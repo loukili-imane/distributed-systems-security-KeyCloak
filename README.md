@@ -30,10 +30,22 @@ Partie 1
     ![image](https://github.com/loukili-imane/distributed-systems-security-KeyCloak/assets/93887037/d8015807-a847-44e3-bbfc-2a8adf137cb9)
 
     ![image](https://github.com/loukili-imane/distributed-systems-security-KeyCloak/assets/93887037/5c3fca67-ce08-4139-a18b-ab35dc747128)
+    ![image](https://github.com/loukili-imane/distributed-systems-security-KeyCloak/assets/93887037/4bdb6d08-2c6d-461c-9c71-6921e1422567)
+
+    ![image](https://github.com/loukili-imane/distributed-systems-security-KeyCloak/assets/93887037/06d72d62-6cb0-4790-bbbc-9ffbeddeae53)
+    ![image](https://github.com/loukili-imane/distributed-systems-security-KeyCloak/assets/93887037/51b65b17-0e40-45a0-86ba-a2bf4fbd5756)
+    ![image](https://github.com/loukili-imane/distributed-systems-security-KeyCloak/assets/93887037/104c0da3-91e1-4a09-876e-dc304739d8d2)
+    ![image](https://github.com/loukili-imane/distributed-systems-security-KeyCloak/assets/93887037/99ed2459-b093-4328-ad2d-19965d285b3f)
+
 
 13. Créer des rôles
-14. Affecter les rôles aux utilisateurs
-15. Avec PostMan :
+    ![image](https://github.com/loukili-imane/distributed-systems-security-KeyCloak/assets/93887037/893c89c3-4f68-4ebe-b804-3faedf0f7511)
+![image](https://github.com/loukili-imane/distributed-systems-security-KeyCloak/assets/93887037/e61520d5-5199-49c8-849c-72c5bf138171)
+
+15. Affecter les rôles aux utilisateurs
+    ![image](https://github.com/loukili-imane/distributed-systems-security-KeyCloak/assets/93887037/dd4e1903-7dc7-43b7-99c5-bf3b9f8760b4)
+
+17. Avec PostMan :
     - Tester l'authentification avec le mot de passe
     - Analyser les contenus des deux JWT Access Token et Refresh Token
     - Tester l'authentification avec le Refresh Token
