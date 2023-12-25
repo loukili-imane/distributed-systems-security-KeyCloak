@@ -55,7 +55,7 @@ Partie 1
 
     - Tester l'authentification avec le mot de passe
     ![image](https://github.com/loukili-imane/distributed-systems-security-KeyCloak/assets/93887037/f603946f-339f-4267-9908-fed232c9540e)
-    ![image](https://github.com/loukili-imane/distributed-systems-security-KeyCloak/assets/93887037/a26f8cf5-650a-48ad-b026-bbab2dc08168)
+![image](https://github.com/loukili-imane/distributed-systems-security-KeyCloak/assets/93887037/e83f8a88-75d2-4377-93ff-17ba4587db66)
 
     - Analyser les contenus des deux JWT Access Token et Refresh Token
     - Tester l'authentification avec le Refresh Token
